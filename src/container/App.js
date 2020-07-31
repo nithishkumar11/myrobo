@@ -1,8 +1,8 @@
 import React,{ Component } from 'react';
 import './App.css';
-import Sticky from './Sticky';
-import Input from './Input';
-import CardList from './CardList';
+import Sticky from '../components/Sticky';
+import Input from '../components/Input';
+import CardList from '../components/CardList';
 import 'tachyons';
 
 class App extends Component {
